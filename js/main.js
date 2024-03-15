@@ -422,7 +422,7 @@ const roundScreen = function(){
     botDiv.appendChild(sliderDiv);
     botDiv.appendChild(btnRounds);
     
-    pTopDiv.textContent = "Select the 'best of' how many rounds you want to play for";
+    pTopDiv.textContent = "Please choose the number of rounds you'd like to play for.";
 
 
 } 
