@@ -31,7 +31,7 @@ so no cheating its allowed prior.
 
 - Round/Game adhoc sound effects depending if user win or lose.
 
-- Volume is mutable and adjustable independently.
+- Volume is muteable and adjustable independently.
 
 - Original GUI with animations to give some delay for the API to work with
 
