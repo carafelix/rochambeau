@@ -27,7 +27,7 @@ so no cheating its allowed prior.
 
 - Set color scheme dark/light based on user browser preference and toggleable.
 
-- background music is mixed array with independent random intervals, with a fixed parameter limit, giving a unique user experience each time.
+- background music is mixed from an array of sound snippets with independent random intervals, with a fixed parameter limit, giving a unique user experience each time.
 
 - Round/Game adhoc sound effects depending if user win or lose.
 
