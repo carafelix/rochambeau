@@ -7,9 +7,9 @@
 
 ## Introduction
 
-The first objective of this proyect is to allow the user to play a simple
+The first objective of this project is to allow the user to play a simple
 Rock-Paper-Scissors game against a truly random generated choice; first only via a text, and later with a GUI.
-This is possible thanks to [random.org](https://www.random.org/), who generate a random number output based on unpredictable micro atmosferic noise changes.  
+This is possible thanks to [random.org](https://www.random.org/), who generate a random number output based on unpredictable micro atmospheric noise changes.  
 
 ## Constrictions
 - Cpu choices must only be initialized after the user already selected a weapon of choice
@@ -25,7 +25,7 @@ so no cheating its allowed prior.
 
 - Ability to select the number of rounds to be played.
 
-- Set color scheme dark/light based on user browser preference and toggable.
+- Set color scheme dark/light based on user browser preference and toggleable.
 
 - background music is mixed array with independent random intervals, with a fixed parameter limit, giving a unique user experience each time.
 
@@ -58,12 +58,12 @@ so no cheating its allowed prior.
 
 ## Disclaimers
 
-- Keep in mind that it doesn't support mobile, and never was a question for make it responsive or not. That was not an objective of this proyect.
-- Most material used is from old Woodblock Prints, mostly from: Utagawa Kuniyoshi & an unkown artist from the Edo period.
+- Keep in mind that it doesn't support mobile, and never was a question for make it responsive or not. That was not an objective of this project.
+- Most material used is from old Woodblock Prints, mostly from: Utagawa Kuniyoshi & an unknown artist from the Edo period.
 
 ## Known Issues 
 
 - In the end-screen, if the play again button 'yes' is click fast enough that the card animation is still not ended && 'same rounds' is checked,  it triggers the second part of the 'card going back animation'
-- Monsters silluettes could be improved
+- Monsters siluetes could be improved
 - A little delay is needed between each round call for the random.org API to work
 - Doesn't work at all on mobile, not something that is planned to get support.
