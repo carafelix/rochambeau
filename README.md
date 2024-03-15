@@ -35,7 +35,7 @@ so no cheating its allowed prior.
 
 - Original GUI with animations to give some delay for the API to work with
 
-- JS file load has a module to prevent any use of the game functions directly from the console
+- JS file load has a module to prevent live access of the game functions from the browser console
 
 - If Client is mobile or small screen, show not supported msg. 
 
