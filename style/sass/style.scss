@@ -30,7 +30,7 @@ body{
     @include flexCenter();
     min-height: 100vh;
     margin: 0;
-    background: url("../assets/img/background/backgroundtwo-42.png") 252.5vh repeat; 
+    background: url("../assets/img/background/webp/backgroundtwo-42.webp") 252.5vh repeat; 
     overflow:hidden;
 }
 
@@ -46,7 +46,7 @@ body{
     @include flexCenter();
     width: 800px;
     min-height: 800px;
-    background: url("../assets/img/humans/primates3.jpg") no-repeat right 30% top 40%/770px;
+    background: url("../assets/img/humans/webp/primates3.webp") no-repeat right 30% top 40%/770px;
     background-color: $white;
     @include borderShadow;
     border-radius: 5%;
@@ -103,13 +103,13 @@ body{
                     transition: all 0.5s;
                 }
                 #rock {
-                    background-image: url("../assets/img/cards/slug.png");
+                    background-image: url("../assets/img/cards/webp/slug.webp");
                 }
                 #paper{
-                    background-image: url("../assets/img/cards/frog.png");
+                    background-image: url("../assets/img/cards/webp/frog.webp");
                 }
                 #scissors {
-                    background-image: url("../assets/img/cards/snake.png");
+                    background-image: url("../assets/img/cards/webp/snake.webp");
 
                 }
                 #play, #slider-div, #rounds {
@@ -244,11 +244,11 @@ body{
     }
 
     body.dark {
-        background: url("../assets/img/background/backgroundtwo-42-inv.png") 252.5vh repeat; 
+        background: url("../assets/img/background/webp/backgroundtwo-42-inv.webp") 252.5vh repeat; 
     }
 
     #gamediv.dark {
-    background: url("../assets/img/humans/primates3-inv.jpg") no-repeat right 30% top 40%/770px;
+    background: url("../assets/img/humans/webp/primates3-inv.webp") no-repeat right 30% top 40%/770px;
     background-color: $dark;
     
         #botdiv {
@@ -256,14 +256,14 @@ body{
             color: $white;
 
             #rock.dark {
-                // background-image: url(../assets/img/cards/sluginv.png);
-                background-image: url("../assets/img/cards/slugtrans.png");
+                // background-image: url(../assets/img/cards/webp/sluginv.webp);
+                background-image: url("../assets/img/cards/webp/slugtrans.webp");
             }
             #paper.dark {
-                background-image: url("../assets/img/cards/frogtrans.png");
+                background-image: url("../assets/img/cards/webp/frogtrans.webp");
             }
             #scissors.dark {
-                background-image: url("../assets/img/cards/snaketrans.png");
+                background-image: url("../assets/img/cards/webp/snaketrans.webp");
     
             }
             output.dark {
